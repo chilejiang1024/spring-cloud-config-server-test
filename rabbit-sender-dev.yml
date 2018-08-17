@@ -1,6 +1,6 @@
 spring:
   rabbitmq:
     host: 172.16.124.16
-    port: 5672
+    port: 4369
     username: zhili
     password: zhili
